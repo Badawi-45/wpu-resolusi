@@ -1,11 +1,13 @@
 RENCANA KONTEN WPU
 
 - Javascript
-  >angular
-  >react
+  -Struktur Data Dasar
+  * Vue
+  *reach
   - es6
   - framework
 - PHP Farmeworks
   -laravel
 - Interview
 - Vlogs
+  *python
