@@ -3,6 +3,7 @@ RENCANA KONTEN WPU
 - Javascript
   -Struktur Data Dasar
   * Vue
+  *reach
   - es6
   - framework
   -
