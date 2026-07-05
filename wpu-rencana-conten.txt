@@ -1,9 +1,11 @@
 RENCANA KONTEN WPU
 
 - Javascript
-  -Struktur Data Dasar
+  >angular
+  >react
   - es6
   - framework
 - PHP Farmeworks
+  -laravel
 - Interview
 - Vlogs
