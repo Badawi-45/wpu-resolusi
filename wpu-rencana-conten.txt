@@ -1,6 +1,7 @@
 RENCANA KONTEN WPU
 
 - Javascript
+  -Struktur Data Dasar
   - es6
   - framework
 - PHP Farmeworks
