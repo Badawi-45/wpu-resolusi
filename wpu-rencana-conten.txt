@@ -6,8 +6,8 @@ RENCANA KONTEN WPU
   *reach
   - es6
   - framework
-  -
 - PHP Farmeworks
+  -laravel
 - Interview
 - Vlogs
   *python
